@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hmmm...;Hmmm?;Hmmm!)](https://git.io/typing-svg)
+
 why hello there
 
 i am but a 18yo russian student with some code knowledge that makes stuff for his own needs
