@@ -2,6 +2,8 @@
 
 why hello there
 
-I am but a humble 18yo student with some code knowledge that makes stuff usually for his own needs
+I am mainly a Go dev, love doing stuff for my needs, and especially so when it comes to music
 
 you ever need anything? reach out to me by discord: `endg4me_`
+
+[My AOTY/EPOTY 2024 list](https://github.com/Endg4meZer0/Endg4meZer0/blob/main/AOTY-2024.md)
