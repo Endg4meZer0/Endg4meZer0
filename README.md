@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The%20water's%20at%20my%20feet;I%20can't%20see%20underneath;Don't%20think%20I%20haven't%20tried...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=60000&color=8BF6D4&vCenter=true&multiline=true&width=1035&lines=Poisonous+it+feels+everytime+I'm+standing+still+on+the+hunt+for+something+real)](https://git.io/typing-svg)
+<sub>AVRALIZE - wanderlust</sub>
+<hr>
 
 why hello there
 
